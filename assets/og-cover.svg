@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060706"/><stop offset="1" stop-color="#151b10"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcff8a"/><stop offset="1" stop-color="#61ce2f"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#bg)"/><circle cx="975" cy="140" r="310" fill="#85e643" opacity=".08"/><circle cx="1030" cy="500" r="260" fill="#baff76" opacity=".05"/>
+<rect x="82" y="88" width="92" height="92" rx="25" fill="#10150d" stroke="#8de749"/><text x="128" y="150" text-anchor="middle" fill="url(#g)" font-family="Arial" font-size="40" font-weight="800">AM</text>
+<text x="82" y="282" fill="#fff" font-family="Arial" font-size="82" font-weight="800">AM Developers</text><text x="82" y="350" fill="#b7bdb3" font-family="Arial" font-size="34">Web Developer Collective</text>
+<rect x="82" y="406" width="465" height="62" rx="31" fill="url(#g)"/><text x="314" y="447" text-anchor="middle" fill="#0a0c08" font-family="Arial" font-size="24" font-weight="700">Fast · Stable · Responsive</text>
+<g transform="translate(760 170)"><circle cx="140" cy="140" r="135" fill="none" stroke="#9bea55" opacity=".25"/><rect x="80" y="80" width="120" height="120" rx="35" fill="#111610" stroke="#fff" opacity=".9"/><text x="140" y="155" text-anchor="middle" fill="#a8ef63" font-family="Arial" font-size="40" font-weight="800">&lt;/&gt;</text></g>
+</svg>

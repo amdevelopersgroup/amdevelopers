@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 820" role="img" aria-labelledby="title desc">
+<title id="title">Web development technology orbit</title><desc id="desc">Abstract floating cards for HTML, CSS, JavaScript and WordPress</desc>
+<defs>
+ <radialGradient id="space" cx="50%" cy="44%" r="58%"><stop stop-color="#72c53b" stop-opacity=".27"/><stop offset=".52" stop-color="#65a83b" stop-opacity=".08"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+ <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b7f36d"/><stop offset="1" stop-color="#4b9d22"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".82"/><stop offset="1" stop-color="#eaf4e4" stop-opacity=".42"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+ <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#31501e" flood-opacity=".22"/></filter>
+</defs>
+<circle cx="500" cy="410" r="340" fill="url(#space)"/>
+<ellipse cx="500" cy="410" rx="350" ry="258" fill="none" stroke="#4d8d2c" stroke-opacity=".56" stroke-width="2.6" transform="rotate(-12 500 410)"/>
+<ellipse cx="500" cy="410" rx="270" ry="350" fill="none" stroke="#5e7453" stroke-opacity=".34" stroke-width="2.2" transform="rotate(28 500 410)"/>
+<circle cx="185" cy="295" r="18" fill="#83d84a" fill-opacity=".62" filter="url(#blur)"/><circle cx="185" cy="295" r="6" fill="#5eaa2f"/>
+<circle cx="810" cy="590" r="20" fill="#83d84a" fill-opacity=".62" filter="url(#blur)"/><circle cx="810" cy="590" r="6" fill="#5eaa2f"/>
+<circle cx="650" cy="102" r="16" fill="#83d84a" fill-opacity=".62" filter="url(#blur)"/><circle cx="650" cy="102" r="5" fill="#5eaa2f"/>
+<g filter="url(#shadow)">
+ <rect x="349" y="250" width="302" height="302" rx="88" fill="url(#glass)" stroke="#436535" stroke-opacity=".28"/>
+ <circle cx="500" cy="401" r="98" fill="#ffffff"/>
+ <circle cx="500" cy="401" r="85" fill="#27749c"/>
+ <text x="500" y="435" text-anchor="middle" fill="#fff" font-family="Georgia,serif" font-size="118" font-weight="700">W</text>
+</g>
+<g filter="url(#shadow)">
+ <rect x="125" y="408" width="208" height="185" rx="46" fill="#11140f" stroke="#31501e" stroke-opacity=".34"/>
+ <text x="229" y="477" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="800">HTML</text>
+ <path d="M180 501h98l-9 78-40 14-39-14-10-78Z" fill="#ef5a29"/><path d="m198 521 3 18h47l-2 18-18 5-18-5-1-9h-17l3 23 33 11 34-11 7-50h-71Z" fill="#fff"/>
+</g>
+<g filter="url(#shadow)">
+ <rect x="683" y="434" width="208" height="185" rx="46" fill="#11140f" stroke="#31501e" stroke-opacity=".34"/>
+ <text x="787" y="503" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="800">CSS</text>
+ <path d="M738 527h98l-9 78-40 14-39-14-10-78Z" fill="#3277c8"/><path d="m755 547 3 18h47l-2 18-18 5-18-5-1-9h-17l3 23 33 11 34-11 7-50h-71Z" fill="#fff"/>
+</g>
+<g filter="url(#shadow)">
+ <rect x="684" y="116" width="175" height="175" rx="46" fill="#f5d84e"/>
+ <text x="772" y="236" text-anchor="middle" fill="#111" font-family="Arial,sans-serif" font-size="72" font-weight="800">JS</text>
+</g>
+<g filter="url(#shadow)">
+ <rect x="113" y="145" width="192" height="114" rx="38" fill="#10130e" stroke="#4d8d2c" stroke-opacity=".76"/>
+ <text x="209" y="197" text-anchor="middle" fill="url(#lime)" font-family="Arial,sans-serif" font-size="27" font-weight="800">FAST</text>
+ <text x="209" y="229" text-anchor="middle" fill="#fff" fill-opacity=".78" font-family="Arial,sans-serif" font-size="17">RESPONSIVE</text>
+</g>
+</svg>
